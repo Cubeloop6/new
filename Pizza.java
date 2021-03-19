@@ -1,20 +1,6 @@
-/*Name: Masaru Chida
-*Section: CS& 141
-* 
-* This program calculates the price of three different pizzas. The program gets two user inputs, the tax rate
-* and price per square inch. The program calculates the price of three different pizzas and outputs their price
-* to the screen.
-* 
- * 
- */
-package cs141.mxchida;
 
 import java.util.Scanner;
 
-/**
- * @author Masaru Chida
- *
- */
 public class Pizza {
 
 	/**
